@@ -1,26 +1,11 @@
-//have a text input field that you convert to a number.
-//Click Convert button
-//Have a function that converts Length (Meter/Feet) and renders the data into a container on a sentence when called by click
 
-//Have a function that converts Volume (liters/gallons) and renders the data into a container on a sentence when called by click
-
-//Have a function that converts Mass (Kilograms/Pounds) and renders the data into a container on a sentence when called by click
-
-//Have a render function that calls all the other funtions  renders everything onclick on convert button
-
-
-//Grab convert btn from the DOM
 const convertBtn = document.getElementById('convert-btn');
-
-//Grab input Box from the DOM
 let inputValue = document.getElementById('number-input');
 
 
 
 
-//Grab volume-p from the DOM
 
-//Grab mass-p from the DOM
 
 
 
